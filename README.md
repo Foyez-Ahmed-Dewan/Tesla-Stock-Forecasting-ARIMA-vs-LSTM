@@ -85,7 +85,6 @@ Users can select the number of days ahead and visualize predicted prices.
 - ARIMA remains a strong baseline for univariate time-series data.
 - LSTM models require more tuning and are sensitive to sequence window size and volatility.
 - Rolling evaluation provides a more realistic estimate of predictive stability.
-- End-to-end deployment (Kaggle → Hugging Face) demonstrates practical ML engineering workflow.
 
 ---
 ## ⚙️ Setup & Run Locally
